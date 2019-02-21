@@ -815,3 +815,6 @@ a:hover {
   /* Target only IE7 and IE8 with this hack */
   opacity: 0.99;
 }
+#editor-container {
+  height: 375px;
+}
